@@ -1,3 +1,8 @@
+/*Author: Ndalama Matika
+ * eTalente Java Graduate Assessment
+ * Date: 25 November 2021
+*/
+
 package com.eviro.assessment.grad001.NdalamaMatika;
 
 import java.math.BigDecimal;
